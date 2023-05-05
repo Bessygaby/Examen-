@@ -1,0 +1,12 @@
+C:\Users\Bessy Martinez\source\repos\BessyMartinez\BessyMartinez\bin\Debug\BessyMartinez.exe.config
+C:\Users\Bessy Martinez\source\repos\BessyMartinez\BessyMartinez\bin\Debug\BessyMartinez.exe
+C:\Users\Bessy Martinez\source\repos\BessyMartinez\BessyMartinez\bin\Debug\BessyMartinez.pdb
+C:\Users\Bessy Martinez\source\repos\BessyMartinez\BessyMartinez\obj\Debug\BessyMartinez.csproj.AssemblyReference.cache
+C:\Users\Bessy Martinez\source\repos\BessyMartinez\BessyMartinez\obj\Debug\BessyMartinez.FormularioInteres.resources
+C:\Users\Bessy Martinez\source\repos\BessyMartinez\BessyMartinez\obj\Debug\BessyMartinez.Properties.Resources.resources
+C:\Users\Bessy Martinez\source\repos\BessyMartinez\BessyMartinez\obj\Debug\BessyMartinez.csproj.GenerateResource.cache
+C:\Users\Bessy Martinez\source\repos\BessyMartinez\BessyMartinez\obj\Debug\BessyMartinez.csproj.CoreCompileInputs.cache
+C:\Users\Bessy Martinez\source\repos\BessyMartinez\BessyMartinez\obj\Debug\BessyMartinez.exe
+C:\Users\Bessy Martinez\source\repos\BessyMartinez\BessyMartinez\obj\Debug\BessyMartinez.pdb
+C:\Users\Bessy Martinez\source\repos\BessyMartinez\BessyMartinez\obj\Debug\BessyMartinez.FormularioDescuento.resources
+C:\Users\Bessy Martinez\source\repos\BessyMartinez\BessyMartinez\obj\Debug\BessyMartinez.FormularioNumeros.resources
